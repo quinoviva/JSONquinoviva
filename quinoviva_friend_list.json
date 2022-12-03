@@ -1,0 +1,36 @@
+{
+    "firstName": "Cyril",
+    "lastName": "Quinoviva",
+    "age": "22",
+    "Address": "California, USA",
+    "contactNumber": "NA",
+    "friendList":
+[
+    {
+        "name": "Shye Custodio",
+        "age": "21",
+        "address": "Iloilo, Philippines",
+        "likes": "Music",
+        "dislikes": "Bugs",
+        "feeling": "Sleepy"
+    },
+
+    {
+        "name": "Ivygail Soberano",
+        "age": "21",
+        "address": "Iloilo, Philippines",
+        "likes": "Music",
+        "dislikes": "Cyril",
+        "feeling": "Gorgeous"
+    },
+
+    {
+        "name": "Cj Marbebe",
+        "age": "22",
+        "address": "Iloilo, Philippines",
+        "likes": "Instrument",
+        "dislikes": "Girls",
+        "feeling": "Gwapo"
+    }
+]
+}
